@@ -7,7 +7,7 @@ should be defined as well.*/
 #include<stdlib.h>
 #include<math.h>
 #define f(x) 3 * x - sin(x) - 1 //define the function of interest here
-#define g(x) 3 - cos(x)       //derivative of the fucntion defined above. Chnage accordingly. 
+#define g(x) 3 - cos(x)       //derivative of the fucntion defined above. Change accordingly. 
 int main()
 {
 	float x0,x1,f0,f1,g0,g1,e=0.000001;
