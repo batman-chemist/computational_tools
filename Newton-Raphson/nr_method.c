@@ -1,4 +1,4 @@
-/*this program will perform the Newton Raphson methd to 
+/*this program will perform the Newton Raphson method to 
 find the the root of an equation defined by the user. 
 Along with the eqauation the fisrt derivative of it 
 should be defined as well.*/
